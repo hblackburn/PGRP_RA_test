@@ -13,3 +13,4 @@ if "`c(username)'"=="jeffr" {
 
 	global B_DIR "C:/Users/jeffr/Documents/Stata_temp/"
 }
+  
